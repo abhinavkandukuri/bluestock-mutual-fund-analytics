@@ -1,0 +1,5 @@
+payment_mode,sip_transaction_count,total_sip_amount_lakh
+Cheque,4959,547.39862
+Net Banking,4949,545.78909
+Mandate,4940,534.9291
+UPI,4868,544.2181

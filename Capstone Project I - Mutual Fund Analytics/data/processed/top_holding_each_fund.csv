@@ -1,0 +1,35 @@
+amfi_code,stock_symbol,stock_name,sector,weight_pct
+100016,WIPRO,Wipro Ltd,IT,25.9
+100033,M&M,Mahindra & Mahindra Ltd,Automobile,26.07
+101206,M&M,Mahindra & Mahindra Ltd,Automobile,19.02
+101207,SUNPHARMA,Sun Pharmaceutical Industries,Pharma,35.07
+102885,NTPC,NTPC Ltd,Utilities,28.95
+102886,TITAN,Titan Company Ltd,Consumer Goods,18.99
+102887,CIPLA,Cipla Ltd,Pharma,19.73
+118632,BHARTIARTL,Bharti Airtel Ltd,Telecom,30.44
+118633,AXISBANK,Axis Bank Ltd,Banking,20.73
+118634,NESTLEIND,Nestle India Ltd,FMCG,13.59
+118635,SBIN,State Bank of India,Banking,17.85
+119092,INFY,Infosys Ltd,IT,38.18
+119093,BAJFINANCE,Bajaj Finance Ltd,NBFC,20.22
+119094,HINDUNILVR,Hindustan Unilever Ltd,FMCG,23.17
+119095,HINDUNILVR,Hindustan Unilever Ltd,FMCG,17.8
+119551,HCLTECH,HCL Technologies Ltd,IT,18.22
+119552,TATAMOTOR,Tata Motors Ltd,Automobile,17.88
+119598,RELIANCE,Reliance Industries Ltd,Energy,16.5
+119599,GRASIM,Grasim Industries Ltd,Diversified,28.25
+120503,NESTLEIND,Nestle India Ltd,FMCG,20.69
+120504,POWERGRID,Power Grid Corporation,Utilities,17.37
+120505,SUNPHARMA,Sun Pharmaceutical Industries,Pharma,23.46
+120506,KOTAKBANK,Kotak Mahindra Bank,Banking,21.47
+120841,INDUSINDBK,IndusInd Bank Ltd,Banking,22.44
+120842,TATAMOTOR,Tata Motors Ltd,Automobile,19.5
+120843,NTPC,NTPC Ltd,Utilities,19.94
+125497,GRASIM,Grasim Industries Ltd,Diversified,19.04
+125498,HDFCBANK,HDFC Bank Ltd,Banking,22.83
+148567,GRASIM,Grasim Industries Ltd,Diversified,22.93
+148568,SBIN,State Bank of India,Banking,28.61
+148569,BHARTIARTL,Bharti Airtel Ltd,Telecom,25.53
+149322,DRREDDY,Dr. Reddy's Laboratories,Pharma,18.28
+149323,CIPLA,Cipla Ltd,Pharma,22.84
+149324,BAJFINANCE,Bajaj Finance Ltd,NBFC,19.71
